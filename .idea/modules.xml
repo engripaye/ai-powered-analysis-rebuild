@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ai-powered-analysis-rebuild.iml" filepath="$PROJECT_DIR$/.idea/ai-powered-analysis-rebuild.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-springboot-backend/java-springboot-backend.iml" filepath="$PROJECT_DIR$/java-springboot-backend/java-springboot-backend.iml" />
     </modules>
   </component>
 </project>
